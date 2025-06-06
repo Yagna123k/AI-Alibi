@@ -13,7 +13,7 @@ Perfect for:
 ---
 
 ## 🚀 Live Demo
-🔗 [ai-alibi.app](#)
+🔗 [AI Alibi](https://ai-alibi.vercel.app)
 
 ---
 
