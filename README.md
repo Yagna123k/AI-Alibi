@@ -134,14 +134,6 @@ Feel free to open a pull request or issue!
 
 ---
 
-## 👨‍💻 Built With Love At
-
-### Bolt.new — The world’s largest AI Hackathon ⚡️
-
-This project was ideated and built during the [Bolt.new Hackathon 2025](https://bolt.new) — where ideas spark and AI builds them.
-
----
-
 ## 📜 License
 
 MIT — use, remix, and prank responsibly.
